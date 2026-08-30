@@ -1,4 +1,2 @@
-print("konflikts_main")
 
-
-
+print("Konflikts atrisināts")
