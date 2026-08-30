@@ -1,6 +1,4 @@
-import antigravity
-
-print("sveiks, Git!")
+print("Feature zars aktīvs")
 
 
 
